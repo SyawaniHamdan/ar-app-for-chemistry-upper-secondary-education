@@ -11,7 +11,8 @@ interactive marker will use in the implementation of AR technology. The applicat
 
 [![VIDEO DEMO AR APP CHEMISTRY UPPER SECONDARY EDUCATION HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/HmLoG5bH3fE)
 
-** How to start is use to provide user on how to run the Chemist Lab AR.apk file. This file only support for Android platform with minimum API level 26. **
+## HOW TO USE
+How to start is use to provide user on how to run the Chemist Lab AR.apk file. This file only support for Android platform with minimum API level 26. 
 
 1.	Download the file from prototype folder.
 2.	Install the apk file on your device by allowing all permission.
