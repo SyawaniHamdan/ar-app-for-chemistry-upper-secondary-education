@@ -1,3 +1,5 @@
+# ar-app-for-chemistry-upper-secondary-education
+
 This project is made for my Projek Sarjana Muda (PSM) at UTM. This project aims to develop virtual experiments using 
 AR technology for chemistry subjects of upper secondary school to ease the learning 
 process. However, only 3 set of AR experiment cover in this application including rate 
@@ -21,7 +23,3 @@ How to start is use to provide user on how to run the Chemist Lab AR.apk file. T
 5.	Click on Allow button for allowing Chemist Lab AR to take pictures and record video.
 6.	The main menu page as in figure above will be displayed.
 7.	Choose either one of the experiments for starting the exploration.
-
-
-# ar-app-for-chemistry-upper-secondary-education
-
